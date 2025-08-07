@@ -1,23 +1,23 @@
 criaCartao(
+    'meio ambiente',
+    'o que é o meio ambiente?',
+    'o meio ambiente é um conjunto de elementos naturais'
+)
+
+criaCartao(
+    'história',
+    'quem proclamou a república do Brasil?',
+    'Marechal Deodoro da fonseca'
+)
+
+criaCartao(
     'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Oque é algoritmo?',
+    'Uma sequência lógica e finita de passos para resolver um problema'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'espanhol',
+    'como se diz falar em espanhol?',
+    'falar em inglês se diz hablar'
 )
